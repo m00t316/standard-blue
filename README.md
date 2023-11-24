@@ -4,6 +4,8 @@
 
 A light blue theme for Standard Notes
 
+Check out [Standard Blue Dark](https://github.com/m00t316/standard-blue-dark) for the dark themed version.
+
 To install, go to preferences > general > advanced options
 
 Paste the following link in the text box:
