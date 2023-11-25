@@ -40,29 +40,23 @@
   --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
   --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
 
-  --sn-stylekit-paragraph-text-color: #454545;
-
   --sn-stylekit-input-placeholder-color: rgb(168, 168, 168);
   --sn-stylekit-input-border-color: #abc4ff;
+
+  --sn-stylekit-passive-color-0: var(--sn-stylekit-neutral-color);
+  --sn-stylekit-passive-color-3: var(--sn-stylekit-contrast-border-color);
+  --sn-stylekit-passive-color-4: var(--sn-stylekit-secondary-background-color);
+  --sn-stylekit-passive-color-4-opacity-variant: #C2D4FF;
+  --sn-stylekit-passive-color-5: var(--sn-stylekit-secondary-background-color);
+
+  --sn-stylekit-paragraph-text-color: #454545;
 
   --sn-stylekit-scrollbar-thumb-color: #b6ccfe;
   --sn-stylekit-scrollbar-track-border-color: #d7e3fc;
 
   --sn-stylekit-general-border-radius: 2px;
-  --sn-stylekit-grey-1: #72767e;
-  --sn-stylekit-grey-2: #bbbec4;
-  --sn-stylekit-grey-3: #769FFF;
-  --sn-stylekit-grey-4: #abc4ff;
-  --sn-stylekit-grey-4-opacity-variant: #bbbec43d;
-  --sn-stylekit-grey-5: #f4f5f7;
-  --sn-stylekit-grey-6: #e5e5e5;
 
-  --sn-stylekit-accessory-tint-color-1: #086dd6;
-  --sn-stylekit-accessory-tint-color-2: #ea6595;
-  --sn-stylekit-accessory-tint-color-3: #ebad00;
-  --sn-stylekit-accessory-tint-color-4: #7049cf;
-  --sn-stylekit-accessory-tint-color-5: #1aa772;
-  --sn-stylekit-accessory-tint-color-6: #f28c52;
+  --sn-stylekit-theme-type: light;
 
 }
 
