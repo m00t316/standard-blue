@@ -29,6 +29,10 @@
   --sn-stylekit-contrast-foreground-color: #28385C;
   --sn-stylekit-contrast-border-color: #abc4ff;
 
+  #blocks-editor hr:after {
+  background-color: #abc4ff;
+}
+
   --sn-stylekit-secondary-background-color: #dbe8ff;
   --sn-stylekit-secondary-foreground-color: #2e2e2e;
   --sn-stylekit-secondary-border-color: #abc4ff;
