@@ -10,5 +10,5 @@ To install, go to preferences > general > advanced options
 
 Paste the following link in the text box:
 ```
-https://notes.m00t.xyz/p/gWG2LYgCPH
+https://notes.kieran.omg.lol/p/gWG2LYgCPH
 ```
